@@ -1,0 +1,34 @@
+@font-face {
+  font-family: myFont; /* set name */
+  src: url(Monocraft.ttf); /* url of the font */
+}
+body {
+
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+.title {
+    color: white;
+    text-align: center;
+    font-family: myFont;
+}
+.about-me-h2 {
+    color: white;
+    text-align: left;
+    font-family: myFont;
+}
+.about-me-p {
+    color: white;
+    text-align: left;
+    font-family: myFont;
+}
+.contact-me-h2 {
+    color: white;
+    text-align: left;
+    font-family: myFont;
+}
+.contact-me-p {
+    color: white;
+    text-align: left;
+    font-family: myFont;
+}
